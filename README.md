@@ -7,13 +7,13 @@
   2. 
 
 ### Listas
-  1. [Lista 1: Probabilidades](./listas/lista-1/ckp8366-lista-1.ipynb)
-  1. [Lista 2: Regressão](./listas/lista-2/ckp8366-lista-2.ipynb)
-  1. ~~[Lista 3](./listas/lista-3/ckp8366-lista-3.ipynb)~~
-  1. ~~[Lista 4](./listas/lista-4/ckp8366-lista-4.ipynb)~~
-  1. ~~[Lista 5](./listas/lista-5/ckp8366-lista-5.ipynb)~~
-  1. ~~[Lista 6](./listas/lista-6/ckp8366-lista-6.ipynb)~~
-  1. ~~[Lista 7](./listas/lista-7/ckp8366-lista-7.ipynb)~~
-  1. ~~[Lista 8](./listas/lista-8/ckp8366-lista-8.ipynb)~~
-  1. ~~[Lista 9](./listas/lista-9/ckp8366-lista-9.ipynb)~~
+  1. [Lista 1: Probabilidades](./listas/lista-1/main.ipynb)
+  1. [Lista 2: Regressão](./listas/lista-2/main.ipynb)
+  1. ~~[Lista 3](./listas/lista-3/main.ipynb)~~
+  1. ~~[Lista 4](./listas/lista-4/main.ipynb)~~
+  1. ~~[Lista 5](./listas/lista-5/main.ipynb)~~
+  1. ~~[Lista 6](./listas/lista-6/main.ipynb)~~
+  1. ~~[Lista 7](./listas/lista-7/main.ipynb)~~
+  1. ~~[Lista 8](./listas/lista-8/main.ipynb)~~
+  1. ~~[Lista 9](./listas/lista-9/main.ipynb)~~
 
