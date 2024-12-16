@@ -141,3 +141,6 @@ notebook/templates/*.html
 
 # Virtual environment
 venv/*
+
+# Large files
+mnist_5.csv
