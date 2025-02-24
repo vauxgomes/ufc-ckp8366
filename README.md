@@ -9,11 +9,9 @@
 ### Listas
   1. [Lista 1: Probabilidades](./listas/lista-1/main.ipynb)
   1. [Lista 2: Regressão](./listas/lista-2/main.ipynb)
-  1. ~~[Lista 3](./listas/lista-3/main.ipynb)~~
-  1. ~~[Lista 4](./listas/lista-4/main.ipynb)~~
-  1. ~~[Lista 5](./listas/lista-5/main.ipynb)~~
-  1. ~~[Lista 6](./listas/lista-6/main.ipynb)~~
-  1. ~~[Lista 7](./listas/lista-7/main.ipynb)~~
-  1. ~~[Lista 8](./listas/lista-8/main.ipynb)~~
-  1. ~~[Lista 9](./listas/lista-9/main.ipynb)~~
+  1. [Lista 3](./listas/lista-3/main.ipynb)
+  1. [Lista 4](./listas/lista-4/main.ipynb)
+  1. [Lista 5](./listas/lista-5/main.ipynb)
+  1. [Lista 6: Autoencoder & VAEs](./listas/lista-6/main.ipynb)
+
 
